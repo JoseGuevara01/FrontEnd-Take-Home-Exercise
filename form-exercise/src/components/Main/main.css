@@ -1,0 +1,30 @@
+h1{
+    color:white;
+    text-align: center;
+    margin-top: 2%;
+
+}
+
+#form{
+    background-image: linear-gradient(
+        20deg, transparent,white,transparent);
+    border: 5px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding: 34px;
+}
+
+input,label,select {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#submit{
+    background: lightsalmon
+}
+
+#missing{
+    color:red;
+    text-align: center;
+}

@@ -1,0 +1,14 @@
+#success{
+    background-image: linear-gradient(to left,lightgrey,white);
+    border: black solid 4px;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 50px;
+    height: 50px;
+    padding: 32px;
+    color:black
+}
+
+#success:hover{
+    color: rgb(146, 115, 57);
+}
