@@ -1,4 +1,4 @@
-# FrontEnd-Take-Home_Exercise
+# FrontEnd-Take-Home-Exercise
 
 This basic React Application allows a user to input data into a form which then will be sumbitted onto an API endpoint.
 
